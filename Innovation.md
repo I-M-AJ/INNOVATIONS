@@ -10,7 +10,7 @@
 
 - **Android OS** — set up an environment and explore the operating system.
 - **iOS development** — explore the development ecosystem and build a starter project.
-- **HarmonyOS, ROS & humanoids** — explore how a humanoid robot can use computer vision to detect objects from a live camera feed.
+- **HarmonyOS, ROS & humanoids** — explore how a humanoid robot can use computer vision to detect objects from a live camera feed. T800 and other Humanoids plus FreeRTOS Plus Simulators etc
 
 ## 🤖 AI-assisted learning & media
 
