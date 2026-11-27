@@ -6,6 +6,8 @@
 
 *A living collection of exploration topics, learning projects, and build-from-scratch ideas.*
 
+- Add fifo in C and remove for sv in the cocotb/simics example
+- 
 ## 📱 Operating systems & robotics
 
 - **Android OS** — set up an environment and explore the operating system.
