@@ -1,12 +1,14 @@
 # 💡 Innovation
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=85" alt="Close-up of a circuit board" width="100%" />
+<p align="left">
+  <img src="https://flagcdn.com/w160/cn.png" alt="China flag" width="96" height="64" />
 </p>
 
-阿杰·库马尔·达什与吉特哈布代码助手合作开发了此设计，仍需进一步研究。
+<p align="center">
+  阿杰·库马尔·达什与吉特哈布代码助手合作开发了此设计，仍需进一步研究。
+</p>
 
-🎸 ✈️ ❤️ 😴 😴
+<p align="center">🎸 ✈️ ❤️ 😴 😴</p>
 
 *A living collection of exploration topics, learning projects, and build-from-scratch ideas.*
 
@@ -19,13 +21,15 @@
 - **Zephyr and VxWorks** — explore both real-time operating systems.
 - **PSSGen** — explore the tool.
 - **Lisp, AL, and DSP with FPGA books** — explore Lisp and the books/topics.
- 
+
+- Add fifo in C and remove for sv in the cocotb/simics example
+
 ## 📱 Operating systems & robotics
 
 - **Android OS** — set up an environment and explore the operating system.
 - **iOS development** — explore the development ecosystem and build a starter project.
 - **HarmonyOS, ROS & humanoids** — explore how a humanoid robot can use computer vision to detect objects from a live camera feed. T800 and other Humanoids plus FreeRTOS Plus Simulators etc
-- Petalinux + Qemu from Xilinx 
+- Petalinux + Qemu from Xilinx
 
 ## 🤖 AI-assisted learning & media
 
